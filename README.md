@@ -9,13 +9,12 @@ Discover a world where you can truly be part of your favorite content creators' 
 
 ## Structure
 
-| Codebase                         |           Description            |
-| :------------------------------- | :------------------------------: |
-| [contract-nexus](contract-nexus) |  Smart Contracts with Solidity   |
-| [fancy-pixels](fancy-pixels)     | UI/Frontend with React (Vitejs)  |
-| [nebula-engine](nebula-engine)   | Server with Nodejs (Express API) |
-| [stellar-guides](stellar-guides) |         Application docs         |
-
+| Codebase                         |           Description           |
+| :------------------------------- | :-----------------------------: |
+| [contract-nexus](contract-nexus) |  Smart Contracts with Solidity  |
+| [fancy-pixels](fancy-pixels)     | UI/Frontend with React (Vitejs) |
+| [nebula-engine](nebula-engine)   |        Some Node.js code        |
+| [stellar-guides](stellar-guides) |        Application docs         |
 
 <br />
 
