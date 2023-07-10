@@ -13,7 +13,7 @@ export function AppLayout(props: AppLayoutProps) {
       <div className="w-full pl-80">
         <Header />
         <Header />
-        <div className="mt-28 max-w-7xl m-auto">{children}</div>
+        <div className="max-w-7xl m-auto">{children}</div>
       </div>
     </main>
   );
