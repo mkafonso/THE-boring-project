@@ -21,5 +21,4 @@ Discover a world where you can truly be part of your favorite content creators' 
 
 ## UI Demo
 
-
-![demo](https://github.com/mkafonso/THE-boring-project/assets/73212666/01e7d376-4f85-4b2e-9a29-275b4e18902e)
+![Screen Shot 2023-07-09 at 22 31 58](https://github.com/mkafonso/THE-boring-project/assets/73212666/e7a79ae5-2a43-4bde-918a-60c2a4f011cf)
