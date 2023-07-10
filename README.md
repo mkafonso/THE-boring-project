@@ -5,7 +5,7 @@
 Breaking away from the limitations of traditional social platforms, THE-boring-project provides a cutting-edge environment where users can engage, discover, and support the creators they admire most.
 Discover a world where you can truly be part of your favorite content creators' journey.
 
-
+<br />
 
 ## Structure
 
@@ -17,11 +17,9 @@ Discover a world where you can truly be part of your favorite content creators' 
 | [stellar-guides](stellar-guides) |         Application docs         |
 
 
-
+<br />
 
 ## UI Demo
 
 
-
-
-![demo](https://github.com/mkafonso/THE-boring-project/assets/73212666/a32e86b1-57ad-4489-83b1-f70f3623413c)
+![demo](https://github.com/mkafonso/THE-boring-project/assets/73212666/01e7d376-4f85-4b2e-9a29-275b4e18902e)
