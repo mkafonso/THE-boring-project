@@ -22,7 +22,7 @@ export function Header() {
         </div>
 
         <strong className="font-bold text-main-100 hover:text-main-200 transition cursor-pointer">
-          Dolores Madrigal
+          0xA8bCe1bd5Ff836959F3993D2c97eD3a943812524
         </strong>
       </div>
     </header>
