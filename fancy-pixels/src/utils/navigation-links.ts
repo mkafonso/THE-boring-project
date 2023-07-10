@@ -2,7 +2,7 @@ export const menuItemsPerSection = [
   {
     name: "Account",
     items: [
-      { name: "Home", href: "/", icon: "home" },
+      { name: "Explore", href: "/", icon: "home" },
       { name: "Direct Messages", href: "/messages", icon: "mail" },
       { name: "Settings", href: "/settings", icon: "gear" },
       { name: "Support", href: "/support", icon: "info" },
