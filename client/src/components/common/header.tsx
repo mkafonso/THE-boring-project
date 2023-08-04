@@ -5,23 +5,23 @@ export function Header() {
         <div className="flex gap-8 items-center">
           <a
             href="#"
-            className="font-bold text-main-100 hover:text-main-200 transition mr-8 text-xl"
+            className="font-bold hover:text-main-800 text-main-700 transition mr-8 text-xl"
           >
             The Boring Project.
           </a>
 
-          <div className="flex items-center gap-2 cursor-pointer text-main-400 hover:text-main-500 transition">
+          <div className="flex items-center gap-2 cursor-pointer text-main-700 hover:text-main-800 transition">
             <span className="font-semibold">Challenges:</span>
-            <span className="font-bold text-primary-300">3</span>
+            <span className="font-bold text-primary-600">3</span>
           </div>
 
-          <div className="flex items-center gap-2 cursor-pointer text-main-400 hover:text-main-500 transition">
+          <div className="flex items-center gap-2 cursor-pointer text-main-700 hover:text-main-800 transition">
             <span className="font-semibold">My Wallet:</span>
-            <span className="font-bold text-primary-300">1000 BP</span>
+            <span className="font-bold text-primary-600">1000 BP</span>
           </div>
         </div>
 
-        <strong className="font-bold text-main-100 hover:text-main-200 transition cursor-pointer">
+        <strong className="font-bold hover:text-main-200 transition cursor-pointer">
           0xA8bCe1bd5Ff836959F3993D2c97eD3a943812524
         </strong>
       </div>

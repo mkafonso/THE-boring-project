@@ -18,7 +18,7 @@ export function Aside() {
                   key={item.href}
                   to={item.href}
                   data-active={pathname === item.href}
-                  className="flex gap-2 items-center py-2 transition text-main-400 hover:text-main-300 data-[active=true]:hover:text-primary-300 data-[active=true]:!text-primary-300 data-[active=true]:font-bold"
+                  className="flex gap-2 items-center py-2 transition text-main-400 hover:text-main-300 data-[active=true]:hover:text-primary-500 data-[active=true]:!text-primary-500 data-[active=true]:font-bold"
                 >
                   <Icon name={item.icon} className="w-5 h-5" />
                   <span>{item.name}</span>
