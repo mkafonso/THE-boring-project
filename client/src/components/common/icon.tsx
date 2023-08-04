@@ -1,4 +1,4 @@
-import sprites from "../assets/sprites.svg";
+import sprites from "../../assets/sprites.svg";
 
 type IconProps = {
   name: string;

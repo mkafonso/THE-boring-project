@@ -1,4 +1,10 @@
-import { Challenge, Home, Messages, Settings, Support } from "../screens";
+import {
+  Challenge,
+  Home,
+  Messages,
+  Settings,
+  Support,
+} from "../components/screens";
 
 export const authenticatedRoutes = [
   { path: "/", component: <Home /> },

@@ -1,4 +1,4 @@
-import { CompetitionCard, Footer } from "../components";
+import { CompetitionCard, Footer } from "..";
 
 export function Challenge() {
   return (
