@@ -10,9 +10,9 @@ export function AppLayout(props: AppLayoutProps) {
   return (
     <main>
       <Aside />
-      <div className="w-full pl-80">
+      <div className="w-full pl-72">
         <Header />
-        <div className="max-w-7xl m-auto">{children}</div>
+        <div className="mt-28 max-w-7xl m-auto">{children}</div>
       </div>
     </main>
   );

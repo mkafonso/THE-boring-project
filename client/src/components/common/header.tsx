@@ -1,11 +1,11 @@
 export function Header() {
   return (
-    <header className="fixed top-0 left-80 right-0 py-3 border-b border-main-500/20 backdrop-blur z-10">
+    <header className="fixed top-0 left-72 right-0 py-3 border-b border-main-500/20 backdrop-blur z-10">
       <div className="flex justify-between items-center max-w-7xl m-auto">
         <div className="flex gap-8 items-center">
           <a
             href="#"
-            className="font-bold hover:text-main-800 text-main-700 transition mr-8 text-xl"
+            className="font-bold hover:text-main-800 text-main-700 transition mr-4 text-xl"
           >
             The Boring Project.
           </a>
