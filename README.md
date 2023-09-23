@@ -7,17 +7,13 @@ Discover a world where you can truly be part of your favorite content creators' 
 
 <br />
 
-## Structure
-
-| Codebase                         |           Description           |
-| :------------------------------- | :-----------------------------: |
-| [contract-nexus](contract-nexus) |  Smart Contracts with Solidity  |
-| [fancy-pixels](fancy-pixels)     | UI/Frontend with React (Vitejs) |
-| [nebula-engine](nebula-engine)   |        Some Node.js code        |
-| [stellar-guides](stellar-guides) |        Application docs         |
-
-<br />
-
 ## UI Demo
 
 ![Screen Shot 2023-07-09 at 22 31 58](https://github.com/mkafonso/THE-boring-project/assets/73212666/e7a79ae5-2a43-4bde-918a-60c2a4f011cf)
+
+
+## 
+Logo menos volto para concluir esse projeto.
+Estava adorando a experiencia de aprender Solidity.
+Preciso commitar algumas coisas que ainda tenho no meu local.
+Acabei focando noutro projeto, mas logo logo estarei por aqui pra concluir.
